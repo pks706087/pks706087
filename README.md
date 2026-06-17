@@ -2,7 +2,7 @@
 
 🚀 Java Developer | Backend Development Enthusiast
 
-Computer Science & Engineering graduate from SEA College of Engineering and Technology (VTU), Bengaluru.
+Information Science & Engineering graduate from SEA College of Engineering and Technology (VTU), Bengaluru.
 
 Completed Java Backend Development Internship at JSpiders.
 
@@ -17,11 +17,12 @@ Completed Java Backend Development Internship at JSpiders.
 - CSS
 - JavaScript
 - Git
-
 ## 📌 Projects
 - Inventory Management System
+- E-Commerce Web Application
 - Employee Management System
 - Quiz Application
+- Personal Portfolio Website
 
 ## 🎯 Career Goal
 Passionate about backend development, problem-solving, and building scalable applications.
